@@ -1,1 +1,1 @@
-console.log"git scm polling in action");
+console.log("code fixed");
