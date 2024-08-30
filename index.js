@@ -1,1 +1,1 @@
-console.log("now the file has changed");
+console.log("git scm polling in action");
